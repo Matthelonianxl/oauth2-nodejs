@@ -12,7 +12,7 @@
   "dependencies": {
     "atob": "^2.0.3",
     "btoa": "^1.1.2",
-    "client-oauth2": "^3.2.0",
+    "client-oauth2": "^4.3.0",
     "csrf": "^3.0.4",
     "ejs": "^2.5.2",
     "expect": "^1.20.2",
